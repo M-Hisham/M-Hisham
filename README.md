@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Hisham
 - 👀 I’m interested in Computational Neuroscience
-- 🌱 I’m currently learning python
+
 
 - 📫 How to reach me: you can email me at Mohamed.Mousa@wright.edu
 
