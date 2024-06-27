@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @M-Hisham
+- 👋 Hi, I’m Mohamed Hisham
 - 👀 I’m interested in Computational Neuroscience
 - I code in python, C/C++, MATLAB
 - I am familer with UNIX systems, and shell programming
+- Ph.D in Engineering
 
 
 - 📫 How to reach me: you can email me at Mohamed.Mousa@wright.edu
